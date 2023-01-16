@@ -1,2 +1,2 @@
-# ITMD361
+# testrepo
 for demo purposes
